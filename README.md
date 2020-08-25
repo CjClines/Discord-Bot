@@ -1,2 +1,2 @@
 # Discord-Bot
-My Discord Bot
+Commissioned Bot for ##REDACTED##
